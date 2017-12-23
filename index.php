@@ -12,5 +12,7 @@ clear ignores any command-line parameters that may be present.
 </p>
 
 <p>This describes ncurses version 5.7 (patch 20090207).</p>
+<p>This describes ncurses version 5.7 (patch 20090207).</p>
+
 </body>
 </html>
